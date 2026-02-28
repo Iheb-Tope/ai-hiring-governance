@@ -6,6 +6,7 @@ The assessment applies the structure and principles of the NIST Artificial Intel
 
 ## Contents
 - **AI_Governance_Risk_Assessment.pdf** – Full case study document
+- **figures - Figures used in the document
 
 ## Scope and Purpose
 This case study was prepared as a professional portfolio artifact to demonstrate applied AI governance and risk analysis skills. It is based on publicly available information and generalized deployment practices and does not evaluate proprietary systems.
